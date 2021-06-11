@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6fa41ca6-ffaa-4dda-9cc3-1695465297f1" name="Default Changelist" comment="" />
+    <list default="true" id="6fa41ca6-ffaa-4dda-9cc3-1695465297f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,12 +15,10 @@
   </component>
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -111,13 +115,15 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../my-baby-fly-admin-board/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -130,18 +136,7 @@
       <method v="2" />
     </configuration>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -159,29 +154,35 @@
       <workItem from="1584432597389" duration="1370000" />
       <workItem from="1584442644112" duration="2373000" />
       <workItem from="1584456299248" duration="9241000" />
+      <workItem from="1608150410276" duration="1781000" />
+      <workItem from="1608542650365" duration="82000" />
+      <workItem from="1611739028914" duration="66000" />
+      <workItem from="1616589719254" duration="350000" />
+      <workItem from="1616590477270" duration="23000" />
+      <workItem from="1616590565053" duration="21000" />
+      <workItem from="1617034921505" duration="737000" />
+      <workItem from="1617108710027" duration="17000" />
+      <workItem from="1620203151187" duration="244000" />
+      <workItem from="1620203834084" duration="2489000" />
+      <workItem from="1620224774874" duration="10000" />
+      <workItem from="1620234256754" duration="13000" />
+      <workItem from="1620306666237" duration="14000" />
+      <workItem from="1620310001610" duration="46000" />
+      <workItem from="1622823335880" duration="141000" />
+      <workItem from="1622885064071" duration="42000" />
+      <workItem from="1623057648033" duration="821000" />
+      <workItem from="1623060576759" duration="4745000" />
+      <workItem from="1623078589621" duration="652000" />
+      <workItem from="1623137612762" duration="47000" />
+      <workItem from="1623158714646" duration="200000" />
+      <workItem from="1623163052369" duration="1293000" />
+      <workItem from="1623171919980" duration="521000" />
+      <workItem from="1623402877546" duration="54000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584433413365">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.768@0.0.1366.768" timestamp="1584433413365" />
-    <state x="413" y="139" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1584459546207">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="413" y="139" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.768@0.0.1366.768" timestamp="1584459546207" />
-    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1584285434747">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1584285434747" />
-    <state x="359" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1584456300044">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="359" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1584456300044" />
+    <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
